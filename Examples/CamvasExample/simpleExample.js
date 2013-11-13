@@ -74,7 +74,7 @@ function windowReady()
 	// Stroke the inner outline
 	context.lineWidth = lineWidth;
 	context.lineJoin = "round";	
-	context.strokeStyle = "#333";
+	context.strokeStyle = gradient;
 	context.stroke();
 	
 	// Draw the text exclamation point
