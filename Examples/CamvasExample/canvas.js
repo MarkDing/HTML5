@@ -16,7 +16,7 @@ function ondraw() {
 	context.strokeStyle = "#eee";
 	context.stroke();
 
-	// draw two horizonal and vertical lines and arrows
+	// draw two horizontal and vertical lines and arrows
 	context.beginPath();
 	context.moveTo(0, 40);
 	context.lineTo(240, 40);
@@ -43,7 +43,7 @@ function ondraw() {
 	context.fillText("y", 58, 165);
 
 	// draw coordinator text on upper-left  and bottom-right corner
-	context.textBaseline = "top"
+	context.textBaseline = "top";
 	context.fillText("(0, 0)", 8, 5);
 
 	context.textAlign = "right";
@@ -68,5 +68,5 @@ function ondraw() {
 		for (var x = 0, y = 0; x < 500 && y < 375; x += 50, y += 37) {
 			context.drawImage(cat, x, y, 88, 56);
 		}
-	}
+	};
 }
