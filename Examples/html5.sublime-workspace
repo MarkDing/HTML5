@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"textBaseline"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"b_",
+				"b_canvas"
+			],
+			[
+				"dra",
+				"drawImage	jsGraphics"
+			],
+			[
+				"fill",
+				"fillText	jsGraphics"
+			],
+			[
+				"shaw",
+				"shadowBlur"
+			],
+			[
+				"arc",
+				"arcTo	jsGraphics"
+			],
+			[
+				"Ge",
+				"getElementById"
+			],
+			[
+				"wait",
+				"g_wait"
+			],
+			[
+				"pc1",
+				"PCA0CPH1"
+			],
+			[
+				"pca",
+				"PCA0CPH1"
+			],
+			[
+				"pc",
+				"PCA0CPH0"
+			],
+			[
+				"duty",
+				"duty_direction"
+			],
+			[
+				"PCA0CPH",
+				"PCA0CPH1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/node-webkit.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ks",
+				"Package Control: Install Package"
+			],
+			[
+				"bin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pakage inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 309.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/script.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/Node-webkit/nw-sample-apps-master/mp3-encoder/index.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/nw-sample-apps-master/menus/index.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/index.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/package.json",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/Oracle VM VirtualBox.lnk",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/Node-webkit.sublime-build",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/node-webkit.sublime-build",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/getmodule.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/debug.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/CamvasExample/canvas.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/modernizr.custom.33249.js",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/NodeJs.sublie-build.sublime-build",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/test.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/fs.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/event.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/module.js",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/JSHint Gutter/.jshintrc",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/carvas.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/carvas.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/test.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/canvas-game-character.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/canvas-game-character.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/CanvasExample.html",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/CanvasExample.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/simpleExample.js",
+		"/C/Users/mading/Dropbox/work/GitHub/1284toUSB/Firmware/1284_To_USB_Main.c",
+		"/C/Users/mading/Dropbox/work/GitHub/1284toUSB/Firmware/F34x_USB_ISR.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Utility.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Main.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_USB_Descriptor.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_DataBlock.h",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_CustomizableData.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Initialize_Peripherals.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_OtpData.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Main.h",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_I2C.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Report_Handler.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_USB_ISR.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Common.h",
+		"/C/Users/mading/Dropbox/work/GitHub/USB_CDC/src/VirtualSerial/CDC_ACM.inf",
+		"/C/Users/mading/Dropbox/work/Jira/pidscript.js",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_DAC_PCM1774.h",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Readme.txt",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_Main.LST",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/sublime-API-Completions-Package.sublime-settings",
+		"/C/Silabs/32bit/si32-1.1.1/Examples/sim3u1xx/SARADC/src/mySARADC0.c",
+		"/C/Silabs/32bit/si32-1.1.1/Examples/sim3u1xx/SARADC/src/main.c",
+		"/C/Users/mading/Downloads/to+si.c",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/open_browser.py",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/Sublime-Better-Completion/sublime-API-Completions-Package.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/mading/Desktop/tmp/html5-canvas-drawing-app/html5-canvas-drawing-app.html",
+		"/C/Users/mading/Desktop/tmp/html5-canvas-drawing-app/html5-canvas-drawing-app.js",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_firmware.sublime-project",
+		"/C/Users/mading/Desktop/tmp/Table 4.13/F91x_IREF_Time/F91x_IREF0_Time .c",
+		"/C/Users/mading/Desktop/tmp/Table 4.2/F91x_Clock_Idle/F91x_Clock_Idle.c",
+		"/C/Users/mading/Desktop/tmp/Table 4.11/F91x_Temperature_Sensor/F91x_Temperature_Sensor_Readme.txt",
+		"/C/Users/mading/Desktop/tmp/Table 4.14/F91x_Comparator/F91x_Comparator_Readme.txt",
+		"/C/Users/mading/Desktop/tmp/Table 4.14/F91x_Comparator/F91x_Comparator .c",
+		"/C/Users/mading/Desktop/tmp/Table 4.3/F96x_Clock_Normal_DC/F96x_Clock_Normal_DC.c",
+		"/C/Users/mading/Desktop/tmp/Table 4.13/F91x_IREF_Time/F931_IREF0_Time_Readme.txt",
+		"/C/Users/mading/Desktop/tmp/Table 4.11/F91x_Temperature_Sensor/F91x_Temperature_Sensor.c",
+		"/C/Users/mading/Desktop/tmp/Table 4.2/F91x_Clock_External/F91x_Clock_External.c",
+		"/C/Users/mading/Desktop/tmp/Table 4.2/F91x_Clock_External/F91x_Clock_External_Readme.txt",
+		"/C/Users/mading/Desktop/tmp/Table 4.2/F91x_Clock_Normal/F91x_Clock_Normal.c",
+		"/C/Users/mading/Desktop/tmp/Table 4.2/F91x_Clock_Normal/F91x_Clock_Normal_Readme.txt",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_USB_Descriptor.h",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_UART.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/CP2114_PinConfig.c",
+		"/C/Users/mading/Dropbox/work/GitHub/CP2114/C8051F380_defs.h",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.12/F96x_ADC_Continuous_Sample/F96x_ADC_Continuous_Sample.c",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.12/F96x_ADC_Performance/F96x_ADC_Performance.c",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.12/F93x_ADC_Continuous_Sample/F96x_ADC_Continuous_Sample.c",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.12/F93x_ADC_Continuous_Sample/F96x_ADC_Continuous_Sample_Readme.txt",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.13/F96x_Temperature_Sensor/F96x_Temperature_Sensor.c",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/Table 4.13/F96x_Temperature_Sensor/F96x_Temperature_Sensor_Readme.txt",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/F96x_Temperature_Sensor/F96x_Temperature_Sensor.c",
+		"/C/Users/mading/Dropbox/work/GitHub/C8051F96x/F96x_Temperature_Sensor/F96x_Temperature_Sensor_Readme.txt",
+		"/C/Users/mading/Desktop/F96x_Clock_Sleep.c",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/F93x_PWM.c",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/alarm.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/sound.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/ok.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/doorbell.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/sounddata.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/stuffs/ok.c",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/stuffs/doorbell-1.c",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/C8051F930_defs.h",
+		"/C/Users/mading/Dropbox/work/GitHub/class-d-8bit-MCU/.gitignore",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/class_d.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/main.c",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_TIMER_A_Type.h",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/mulaw.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myTIMER1.c",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_EPCACH_A_Type.h",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myApplication.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myDataPlaneIn.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/generated/gEPCA0.c",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_EPCA_A_Type.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_EPCA_A_Registers.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_SARADC_A_Type.h",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myUSB0.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myCAPSENSE0.c",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_PLL_A_Type.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/sim3u1xx/SI32_PBCFG_A_Type.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/CPU/core_cm3.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/sim3c1xx/sim3c1xx.h",
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_TIMER_A_Type.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myEPCA0.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/generated/gPLL0.c",
+		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myCLKCTRL.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\mading\\Dropbox\\work\\GitHub\\pwm-audio-drive\\reference\\Class-D_TS_SiM3U164",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"var",
+			"name",
+			"event",
+			"contex1",
+			"context",
+			"blinkTimer",
+			"redraw",
+			"prepareCanvas",
+			"loadImage",
+			"PCA0_Init",
+			"void PCA0_Init (void)",
+			"PCA0_Init",
+			"sendDebugStreamOnBulkPipeUsedForControl",
+			"kModeDebugINEP",
+			"main",
+			"port",
+			"I2C_Write",
+			"pCurrentRAMConfig",
+			"pDest",
+			"OSCICL",
+			"PCM1774",
+			"PCM1717",
+			"PCM1774",
+			"BootConfig",
+			"t_BootConfig",
+			"pConfig",
+			"Apply_Volume_L_Settings",
+			"updateDeviceCapabilities",
+			"currentBootConfig",
+			"DAC_SELECT_NONE",
+			"dac",
+			"nodac",
+			"pRegval",
+			"regval16",
+			"DAC_register_bytecount",
+			"I2C_Write",
+			"SET_DAC_CONFIG",
+			"f5",
+			"auto_complete_triggers",
+			"lineTo",
+			"path",
+			"lineTo",
+			"Configure_UART",
+			"UART",
+			"uart",
+			"interface_descriptor",
+			"output_id1_0",
+			"interface_descriptor",
+			"hid_interface_descriptor",
+			"hid_interface_descriptor_out",
+			"interface_descriptor",
+			"input_id1_1",
+			"interface_descriptor",
+			"\\C8051F93x_92x",
+			"interface_descriptor",
+			"hid_configuration_desc",
+			"alternate",
+			"\n",
+			"I2C_Write",
+			"UART",
+			"uart",
+			"i2c",
+			"ADC0_12Bit",
+			"ADC0AC",
+			"ADC0CF",
+			"ADC0AC",
+			"ADCBuffer",
+			"ADC0_SampleWindow",
+			"REF0CN",
+			"ADC0_Init",
+			"UART0_Init",
+			"SYSCLK_Init",
+			"Table 4.9",
+			"F93x",
+			"4.9",
+			"SARCLK",
+			"BURSTEN",
+			"ADC0AC",
+			"THROUGHPUT_EN",
+			"ADC0_Resolution",
+			"ADC0_Init",
+			"CONVERSION_MODE",
+			"Timer2_Init",
+			"ADC0_Sampling_Rate",
+			"Timer2_Init",
+			"ADC0_Init",
+			"SARCLK",
+			"SW0_2",
+			"P1.5",
+			"SYSCLK_Init",
+			"Tracking",
+			"CONVERSION_MODE",
+			"ADC0_MODE_SELECT",
+			"Table 4.9",
+			"Table 4.12",
+			"F93x",
+			"REF0CN",
+			"SARCLK",
+			"SYSCLK_Init",
+			"f93X",
+			"f930",
+			"RTC_Init",
+			"RTC_Disable",
+			"Oscillator_Cycle",
+			"Port_Init",
+			"Enter_Sleep",
+			"SFR_PCA0CN",
+			"PCA0CPL0",
+			"PCA0CPM0",
+			"SFR_PCA0",
+			"SFR_PCA0CPM",
+			"PCA0CPM0",
+			"pca",
+			"SI32_EPCA",
+			"muLaw_Decode",
+			"compressed_data",
+			"MULAW_BIAS",
+			"input_data",
+			"system_mode",
+			"tags",
+			"ctags",
+			"NVIC_EnableIRQ",
+			"nvic",
+			"SI32_TIMER_A_enable_stall_in_debug_mode",
+			"myApplication_main",
+			"si32Base_allocation_summary",
+			"SI32_MCU_RAM_SIZE",
+			"printf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 337.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"1284_To_USB_Main.c"
+			],
+			[
+				"i2",
+				"CP2114_I2C.c"
+			],
+			[
+				"cp2114_u",
+				"CP2114_Utility.c"
+			],
+			[
+				"read",
+				"CP2114_Readme.txt"
+			],
+			[
+				"cp2114_",
+				"CP2114_I2C.c"
+			],
+			[
+				"dac",
+				"CP2114_DAC_PCM1774.h"
+			],
+			[
+				"i2c",
+				"CP2114_I2C.c"
+			],
+			[
+				"uart",
+				"CP2114_UART.c"
+			],
+			[
+				"descr",
+				"CP2114_USB_Descriptor.c"
+			],
+			[
+				"38",
+				"CP2114/C8051F380_defs.h"
+			],
+			[
+				"descrip",
+				"CP2114/CP2114_USB_Descriptor.c"
+			],
+			[
+				"sounddata",
+				"sounddata.h"
+			],
+			[
+				"ok",
+				"ok.h"
+			],
+			[
+				"ok.h",
+				"ok.h"
+			],
+			[
+				"ok.",
+				"ok.h"
+			],
+			[
+				"epca",
+				"Class-D_TS_SiM3U164/src/generated/gEPCA0.c"
+			],
+			[
+				"myap",
+				"Class-D_TS_SiM3U164/src/myApplication.c"
+			],
+			[
+				"ulaw",
+				"Class-D_TS_SiM3U164/src/mulaw.c"
+			],
+			[
+				"myappli",
+				"Class-D_TS_SiM3U164/src/myApplication.c"
+			],
+			[
+				"epc",
+				"src/myEPCA0.c"
+			],
+			[
+				"pll",
+				"src/generated/gPLL0.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}
