@@ -1,5 +1,10 @@
-MP3 Encoder
-===============
+# Silicon Labs MCU serial Bootloader Data Source
 
-Dummy app to test node-wekbit using an external process, coffee-script 
-and backbone on both windows and OSX
+This is a basic demo that demonstrates ability of HTML5 and JavaScript to make a desktop application.
+
+
+
+## APIs
+
+* [Menu](https://github.com/rogerwang/node-webkit/wiki/Menu)
+* [MenuItem](https://github.com/rogerwang/node-webkit/wiki/MenuItem)

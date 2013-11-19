@@ -67,7 +67,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 579,
+				"buffer_size": 3500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 294,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,7 +83,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 153,
+				"buffer_size": 186,
 				"line_ending": "Unix"
 			}
 		}
@@ -153,10 +161,11 @@
 	"file_history":
 	[
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/script.js",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/README.md",
+		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/package.json",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/Node-webkit/nw-sample-apps-master/mp3-encoder/index.html",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/nw-sample-apps-master/menus/index.html",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/index.html",
-		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/package.json",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/Oracle VM VirtualBox.lnk",
 		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/Node-webkit.sublime-build",
 		"/C/Users/mading/AppData/Roaming/Sublime Text 2/Packages/User/node-webkit.sublime-build",
@@ -283,7 +292,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"",
@@ -297,6 +306,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"ppx",
+			"\"",
 			"var",
 			"name",
 			"event",
@@ -422,9 +433,7 @@
 			"nvic",
 			"SI32_TIMER_A_enable_stall_in_debug_mode",
 			"myApplication_main",
-			"si32Base_allocation_summary",
-			"SI32_MCU_RAM_SIZE",
-			"printf"
+			"si32Base_allocation_summary"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -432,6 +441,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"'"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -450,15 +460,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 579,
+						"buffer_size": 3500,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								385,
-								385
+								2607,
+								2607
 							]
 						],
 						"settings":
@@ -557,25 +567,140 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1458.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "package.json",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								118,
-								118
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
 							]
 						],
 						"settings":
