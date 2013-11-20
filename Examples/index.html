@@ -7,7 +7,7 @@
     <div id='container' style='width:750px'>
     <div id='header' style = 'background-color:#EEEEEE;'>
       <pre>                 <font size="2" color="blue">COM port   Baud Rate   Data Bits    Parity      Stop Bits  Flow Control</font></pre>
-      <button type='button'>Select Hex File(s)</button>
+      <button type='button' id='openHexFile' onclick=openFileOption()>Select Hex File(s)</button>
       <select title='COM Port' name='COM Port' style='width:80px'>
         <option value='COM1' selected>COM1</option>
         <option value='COM4'>COM4</option>
@@ -28,7 +28,7 @@
         <option value='None'>None</option>
       </select>
       
-      <button type='button' style='float:right'>Open COM Port</button>
+      <button type='button' id='openComPort'style='float:right'>Open COM Port</button>
     </div>
     <div id='HexInfo' style='background-color:#EEEEEE;height:300px;width:300px;float:left'>
       <table border='1' cellspacing='0'>
@@ -100,13 +100,15 @@ Please select a Hex file and then open the COM port.
     <br>
     <br>
     <div id='footer', style='background-color:#EEEEEE;clear:both'>
-      <button type='button'>Update Application Firmware</button>
+      <button type='button' id='updateFirmware'>Update Application Firmware</button>
       <form style='float:right'>
         <input type='checkbox' name='Verbose' checked=true>Verbose
         <input type='checkbox' name='Show Raw Data'>Show Raw Data 
-        <button type='button'>Clear Display</button>
+        <button type='button' id='clearDisplay'>Clear Display</button>
       </form>
     </div>
     </div>
+    <input style='display:none;' type="file" id="openFile">
+    <script src="script.js"></script>
   </body>
 </html>
