@@ -6,6 +6,10 @@ function openFileOption() {
 	document.getElementById("openFile").click();
 }
 
+function TatestSdfd() { 
+	var a = "3";
+
+}
 // onload = function() {
 // 	openButton = document.getElementById('openHexFile');
 // 	openButton.onClick(openFileOption());

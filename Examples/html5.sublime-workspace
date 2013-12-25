@@ -63,15 +63,27 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/mading/Dropbox/work/GitHub/HTML5_UART_BL/script.js",
+			"settings":
+			{
+				"buffer_size": 8489,
+				"line_ending": "Windows"
+			}
+		}
 	],
-	"build_system": "Packages/User/node-webkit.sublime-build",
+	"build_system": "Packages/User/Node-webkit.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 58.0,
 		"selected_items":
 		[
 			[
 				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
 				"Package Control: Install Package"
 			],
 			[
@@ -123,7 +135,11 @@
 	},
 	"console":
 	{
-		"height": 309.0
+		"height": 309.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
 	},
 	"distraction_free":
 	{
@@ -136,6 +152,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/mading/AppData/Roaming/Sublime Text 3/Packages/User/Node-webkit.sublime-build",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/C/Users/mading/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/index.html",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/script.js",
 		"/C/Users/mading/Dropbox/work/GitHub/HTML5/Examples/README.md",
@@ -258,10 +279,7 @@
 		"/C/Silabs/32bit/si32-1.1.1/si32Hal/sim3u1xx/SI32_PBCFG_A_Type.h",
 		"/C/Silabs/32bit/si32-1.1.1/si32Hal/CPU/core_cm3.h",
 		"/C/Silabs/32bit/si32-1.1.1/si32Hal/sim3c1xx/sim3c1xx.h",
-		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_TIMER_A_Type.c",
-		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myEPCA0.c",
-		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/generated/gPLL0.c",
-		"/C/Users/mading/Dropbox/work/GitHub/pwm-audio-drive/reference/Class-D_TS_SiM3U164/src/myCLKCTRL.c"
+		"/C/Silabs/32bit/si32-1.1.1/si32Hal/SI32_Modules/SI32_TIMER_A_Type.c"
 	],
 	"find":
 	{
@@ -429,8 +447,42 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/mading/Dropbox/work/GitHub/HTML5_UART_BL/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3647,
+								3647
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								100
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"wrap_width": 100
+						},
+						"translation.x": 0.0,
+						"translation.y": 2268.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -469,6 +521,11 @@
 	{
 		"height": 337.0
 	},
+	"output.unsaved_changes":
+	{
+		"height": 389.0
+	},
+	"project": "html5.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -574,10 +631,24 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
 	"side_bar_width": 217.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
